@@ -44,9 +44,5 @@ This document provides a guide for developers working on our system, including s
 - Use CSS preprocessors like Sass or Less
 - Follow CSS Guidelines
 
-### Best Practices
 
-### Code Organization
-
-Keep code organized by feature or component
 
